@@ -1,5 +1,5 @@
+numpy 
+tensorflow
+keras
 Flask
-sklearn
-pandas
-numpy
-matplotlib
+scikit-learn
